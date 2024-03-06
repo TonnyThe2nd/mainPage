@@ -10,7 +10,7 @@
 
   <p><b>-👨‍💻 Atualmente, trabalho como estagiário de suporte técnico.<br>
   -☕ Focado em  desenvolvimento em Java.<br>
-  -📚 Estudante de Ciência da Computação
+  -📚 Estudante de Ciência da Computação<br>
   -📧 Email - antoniomarcos3577@gmail.com<br>
   -✉️ <a href="https://drive.google.com/file/d/1jNptugyr8BkinKJdLFF8pXXGYz6lVKZ3/view">Meu Currículo</a></b></p>
 
