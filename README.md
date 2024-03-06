@@ -26,13 +26,17 @@
  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30"> CSS
  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="30" height="30"> BootStrap
  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" height="30"> React</b>
-### Redes
+### Redes:
+<br>
+<br>
 <div align="center">  
 <a href="[(https://www.instagram.com/web_4ntonio/)]" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="www.linkedin.com/in/antonio-marcos-sousa-de-oliveira-25b902272" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
+<br>
+<br>
   
-### Estatísticas de Estudos
+### Estatísticas de Estudos:
 <br>
 <br>
 <div align="center">  
