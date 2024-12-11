@@ -8,8 +8,8 @@
 <p>Sou estudante da área de TI na UNIP, buscando ser um grande profissional de desenvolvimento back-end, com um grande interesse em inteligência artificial e banco de dados.</p>
 
 
-  <p><b>-👨‍💻 Atualmente, trabalho como estagiário de suporte técnico.<br>
-  -☕ Focado em  desenvolvimento em Java.<br>
+  <p>
+  -☕ Focado em  Data Sciente e Machine Learnning.<br>
   -📚 Estudante de Ciência da Computação<br>
   -📧 Email - antoniomarcos3577@gmail.com<br>
   -✉️ <a href="https://drive.google.com/file/d/1eOWqjsxAqoSa6Upf3ZY_ZXW4uFgw6MCN/view">Meu Currículo</a></b></p>
